@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FullStackAPI.Migrations
 {
     [DbContext(typeof(FullStackDbContext))]
-    [Migration("20230817103702_Initial Migration")]
+    [Migration("20230830152308_Initial Migration")]
     partial class InitialMigration
     {
         /// <inheritdoc />
